@@ -1,0 +1,1 @@
+# okuda0715tech.github.io
