@@ -1,5 +1,3 @@
-# GitHub Pages 用の base URL
-# 独自ドメインに切り替えるときは baseURL を変更する
 baseURL = "https://okuda0715tech.github.io/"
 
 languageCode = "ja"
@@ -7,9 +5,9 @@ title = "奥田智紘の技術ブログ"
 theme = "PaperMod"
 
 [pagination]
-  pagerSize = 10
+pagerSize = 10
 
 [params]
-  defaultTheme = "auto"
-  showReadingTime = true
-  showShareButtons = true
+defaultTheme = "auto"
+showReadingTime = true
+showShareButtons = true
