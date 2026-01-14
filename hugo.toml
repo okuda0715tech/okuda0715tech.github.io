@@ -1,9 +1,9 @@
-# GitHub Pages �p�� base URL
-# �Ǝ��h���C���ɐ؂�ւ���Ƃ��� baseURL ��ύX����
+# GitHub Pages 用の base URL
+# 独自ドメインに切り替えるときは baseURL を変更する
 baseURL = "https://okuda0715tech.github.io/"
 
 languageCode = "ja"
-title = "���c�q�h�̋Z�p�u���O"
+title = "奥田智紘の技術ブログ"
 theme = "PaperMod"
 
 [pagination]
