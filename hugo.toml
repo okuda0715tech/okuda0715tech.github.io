@@ -11,6 +11,11 @@ pagerSize = 10
 [menu]
 
   [[menu.main]]
+    name = "記事一覧"
+    url = "/posts/"
+    weight = 10
+    
+  [[menu.main]]
     name = "About"
     url = "/about/"
     weight = 10
