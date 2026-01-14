@@ -1,4 +1,6 @@
+# 独自 URL に変更する場合は baseURL を変更するだけで OK
 baseURL = "https://okuda0715tech.github.io/"
+
 languageCode = "ja"
 title = "奥田智紘の技術ブログ"
 theme = "PaperMod"
@@ -10,3 +12,23 @@ pagerSize = 10
 defaultTheme = "auto"
 showReadingTime = true
 showShareButtons = true
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/okuda0715tech"
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://x.com/okuda_studio"
+
+  [[params.socialIcons]]
+    name = "zenn"
+    url = "https://zenn.dev/okuda0715tech"
+
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
