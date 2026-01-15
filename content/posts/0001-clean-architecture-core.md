@@ -1,7 +1,7 @@
 +++
 title = "クリーンアーキテクチャの本質をわかりやすく解説"
 date = 2026-01-14
-tags = ["Android", "Compose", "UI"]
+tags = ["クリーンアーキテクチャ", "Android"]
 draft = false
 +++
 
