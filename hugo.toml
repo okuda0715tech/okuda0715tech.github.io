@@ -2,18 +2,23 @@
 baseURL = "https://okuda0715tech.github.io/"
 
 languageCode = "ja"
-title = "奥田智紘の技術ブログ"
+title = "設計で、迷わなくなるために | 奥田智紘"
 theme = "PaperMod"
 
 [pagination]
-pagerSize = 10
+pagerSize = 100
 
 [menu]
 
   [[menu.main]]
-    name = "記事一覧"
+    name = "記事"
     url = "/posts/"
-    weight = 10
+    weight = 1
+    
+  [[menu.main]]
+    name = "本"
+    url = "/books/"
+    weight = 2
     
   [[menu.main]]
     name = "About"
@@ -28,7 +33,7 @@ showShareButtons = true
   [params.profileMode]
     enabled = true
     title = "設計で、迷わなくなるために。"
-    subtitle = "Android / Jetpack Compose を通して、設計の違和感を言語化する技術ブログ"
+    subtitle = "判断・責務・境界を言語化する技術と思考のログ"
 #    imageUrl = "/images/profile.png" # 今は無くてもOK
 #    imageTitle = "okuda0715"
 
