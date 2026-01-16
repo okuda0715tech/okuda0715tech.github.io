@@ -31,9 +31,6 @@ showReadingTime = true
 showShareButtons = true
 env = "production"
 
-  [params.analytics.google]
-    ID = "G-W5RMQW8ZBN"
-
   [params.profileMode]
     enabled = true
     title = "設計で、迷わなくなるために。"
@@ -41,5 +38,6 @@ env = "production"
 #    imageUrl = "/images/profile.png" # 今は無くてもOK
 #    imageTitle = "okuda0715"
 
-
+[services.googleAnalytics]
+id = "G-W5RMQW8ZBN"
 
