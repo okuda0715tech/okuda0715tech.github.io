@@ -31,8 +31,8 @@ showReadingTime = true
 showShareButtons = true
 env = "production"
 
-# Google Analytics GA4 Measurement ID
-googleAnalytics = "G-W5RMQW8ZBN"
+  [params.analytics.google]
+    ID = "G-W5RMQW8ZBN"
 
   [params.profileMode]
     enabled = true
