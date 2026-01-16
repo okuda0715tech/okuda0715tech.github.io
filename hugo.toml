@@ -21,7 +21,7 @@ pagerSize = 100
     weight = 2
     
   [[menu.main]]
-    name = "About"
+    name = "概要"
     url = "/about/"
     weight = 10
 

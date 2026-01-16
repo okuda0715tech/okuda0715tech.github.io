@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "サイト概要"
 description: "このウェブサイトについて"
 hideMeta: true
 ---
