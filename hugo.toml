@@ -1,5 +1,5 @@
 # 独自 URL に変更する場合は baseURL を変更するだけで OK
-baseURL = "https://okuda0715tech.github.io/"
+baseURL = "https://design.okuda-studio.com/"
 
 languageCode = "ja"
 title = "設計で、迷わなくなるために | 奥田智紘"
