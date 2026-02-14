@@ -1,5 +1,7 @@
 name: Deploy Hugo site to GitHub Pages
 
+# main ブランチがプッシュされた場合のみデプロイする。
+# まだ公開したくない記事や本は別ブランチでプッシュすればOK。
 on:
   push:
     branches:
