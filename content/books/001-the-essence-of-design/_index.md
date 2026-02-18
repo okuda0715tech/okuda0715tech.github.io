@@ -1,5 +1,9 @@
 +++
 title = "ソフトウェア開発における設計の本質"
+date = "2025-09-20"
+weight = 10
+bookId = "essence-of-design"   # 任意（将来の拡張用）
+draft = false
 +++
 
 すべてのソフトウェア開発で通用する、高度な設計スキルを Android アプリ開発を通して解説します。

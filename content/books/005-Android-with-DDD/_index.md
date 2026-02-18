@@ -1,6 +1,10 @@
 +++
 title = "Android × DDD"
 description = "--- Android アプリに DDD を取り入れるためのガイド ---"
+date = "2026-02-18"
+weight = 50
+bookId = "android-ddd"   # 任意（将来の拡張用）
+draft = false
 +++
 
 本書は、Android アプリ開発において DDD（ドメイン駆動設計）を
