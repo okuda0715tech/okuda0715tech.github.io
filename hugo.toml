@@ -38,6 +38,10 @@ env = "production"
 #    imageUrl = "/images/profile.png" # 今は無くてもOK
 #    imageTitle = "okuda0715"
 
+  [params.author]
+    name = "智紘 奥田"
+    email = "okuda0715tech@google.com"
+
 [services.googleAnalytics]
 id = "G-W5RMQW8ZBN"
 
