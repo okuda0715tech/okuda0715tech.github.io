@@ -30,6 +30,7 @@ defaultTheme = "auto"
 showReadingTime = true
 showShareButtons = true
 env = "production"
+author = "奥田 智紘"
 
   [params.profileMode]
     enabled = true
@@ -38,9 +39,9 @@ env = "production"
 #    imageUrl = "/images/profile.png" # 今は無くてもOK
 #    imageTitle = "okuda0715"
 
-  [params.author]
-    name = "智紘 奥田"
-    email = "okuda0715tech@google.com"
+#  [params.author]
+#    name = "奥田 智紘"
+#    email = "okuda0715tech@google.com"
 
 [services.googleAnalytics]
 id = "G-W5RMQW8ZBN"
