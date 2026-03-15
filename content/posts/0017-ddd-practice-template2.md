@@ -1,7 +1,8 @@
 +++
 title = "ドメイン設計テンプレート（補強版）"
 date = "2026-03-11T10:00:00+09:00"
-tags = ["DDD", "テンプレート"]
+categories = ["Architecture"]
+tags = ["DDD"]
 draft = false
 +++
 

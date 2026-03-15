@@ -1,7 +1,8 @@
 +++
 title = "リファクタリングには二種類ある"
 date = "2026-03-04T13:00:00+09:00"
-tags = ["リファクタリング"]
+categories = ["Architecture"]
+tags = ["Refactoring"]
 draft = false
 +++
 

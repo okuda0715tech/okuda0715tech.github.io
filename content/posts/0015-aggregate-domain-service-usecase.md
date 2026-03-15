@@ -1,7 +1,8 @@
 +++
 title = "DDDにおける「集約」「ドメインサービス」「ユースケース」の違い"
 date = "2026-03-10T16:00:00+09:00"
-tags = ["DDD", "集約", "ドメインサービス", "ユースケース"]
+categories = ["Architecture"]
+tags = ["DDD"]
 draft = false
 +++
 

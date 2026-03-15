@@ -1,6 +1,7 @@
 +++
 title = "「サービスクラス」とは何か？"
 date = "2026-02-11T11:50:00+09:00"
+categories = ["Architecture"]
 tags = ["Service Class", "UseCase"]
 draft = false
 +++

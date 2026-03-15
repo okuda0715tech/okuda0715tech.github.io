@@ -1,6 +1,7 @@
 +++
 title = "SQL の条件を固定しない"
 date = "2026-02-11T17:30:00+09:00"
+categories = ["Architecture"]
 tags = ["Dao", "SQL"]
 draft = false
 +++

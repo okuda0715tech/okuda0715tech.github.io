@@ -1,6 +1,7 @@
 +++
 title = "ViewModel が肥大化する理由"
 date = "2026-02-09T11:35:00+09:00"
+categories = ["Architecture"]
 tags = ["ViewModel", "UseCase"]
 draft = false
 +++

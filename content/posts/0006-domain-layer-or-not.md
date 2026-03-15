@@ -1,7 +1,8 @@
 +++
 title = "Domain レイヤーかどうかを判断する基準"
 date = "2026-02-08T17:00:00+09:00"
-tags = ["Domain レイヤー", "アーキテクチャ"]
+categories = ["Architecture"]
+tags = ["Domain"]
 draft = false
 +++
 

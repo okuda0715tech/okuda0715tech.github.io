@@ -1,7 +1,8 @@
 +++
 title = "Domain と UseCase の違いを整理してみる"
 date = "2026-02-09T11:00:00+09:00"
-tags = ["Domain レイヤー", "Domain", "UseCase"]
+categories = ["Architecture"]
+tags = ["Domain", "UseCase"]
 draft = false
 +++
 

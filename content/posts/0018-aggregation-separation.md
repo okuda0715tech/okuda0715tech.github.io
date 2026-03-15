@@ -1,7 +1,8 @@
 +++
 title = "一つの集約にまとめるべきか、別の集約に分けるべきかの判断基準（DDD）"
 date = "2026-03-12T18:00:00+09:00"
-tags = ["DDD", "集約"]
+categories = ["Architecture"]
+tags = ["DDD"]
 draft = false
 +++
 

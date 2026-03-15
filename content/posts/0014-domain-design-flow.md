@@ -1,7 +1,8 @@
 +++
 title = "DDDでドメインを設計するときの流れ"
 date = "2026-03-10T14:00:00+09:00"
-tags = ["DDD", "実践", "設計"]
+categories = ["Architecture"]
+tags = ["DDD"]
 draft = false
 +++
 

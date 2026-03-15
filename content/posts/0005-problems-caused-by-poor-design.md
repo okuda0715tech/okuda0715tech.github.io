@@ -1,7 +1,8 @@
 +++
 title = "設計不良による消耗戦"
 date = "2026-01-23T10:00:00+09:00"
-tags = ["技術的負債", "開発現場"]
+categories = ["Team"]
+tags = ["Technical Debt"]
 draft = false
 +++
 

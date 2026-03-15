@@ -1,7 +1,8 @@
 +++
 title = "Boolean に潰された「状態」"
 date = "2026-03-04T12:00:00+09:00"
-tags = ["状態定義"]
+categories = ["Architecture"]
+tags = ["State"]
 draft = false
 +++
 

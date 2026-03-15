@@ -1,7 +1,8 @@
 +++
 title = "なぜクリーンアーキテクチャはドメインを守るのか"
 date = "2026-01-15T00:00:00+09:00"
-tags = ["クリーンアーキテクチャ", "Android"]
+categories = ["Architecture"]
+tags = ["Clean Architecture"]
 draft = false
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Aggregate Root とは"
 date = "2026-02-12T10:00:00+09:00"
+categories = ["Architecture"]
 tags = ["DDD"]
 draft = false
 +++

@@ -1,7 +1,8 @@
 +++
 title = "技術的に正しいと分かっていながら、あえてやらなかった判断について"
 date = "2026-01-22T00:00:00+09:00"
-tags = ["Android", "技術的判断", "技術的負債", "開発現場"]
+categories = ["Team"]
+tags = ["Technical Debt"]
 draft = false
 +++
 

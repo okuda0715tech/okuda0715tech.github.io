@@ -1,7 +1,8 @@
 +++
 title = "設計思想 × Androidアプリ実装という自分の強み"
 date = "2026-01-22T22:00:00+09:00"
-tags = ["設計", "Android", "キャリア"]
+categories = ["Career"]
+tags = []
 draft = false
 +++
 

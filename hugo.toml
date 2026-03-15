@@ -16,14 +16,19 @@ pagerSize = 100
     weight = 1
     
   [[menu.main]]
+    name = "カテゴリ"
+    url = "/categories/"
+    weight = 2
+
+  [[menu.main]]
     name = "タグ"
     url = "/tags/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "本"
     url = "/books/"
-    weight = 3
+    weight = 4
     
   [[menu.main]]
     name = "概要"

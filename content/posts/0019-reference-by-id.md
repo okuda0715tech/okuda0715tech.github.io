@@ -1,7 +1,8 @@
 +++
 title = "DDDで「集約はIDで参照する」とはどういう意味か"
 date = "2026-03-12T19:00:00+09:00"
-tags = ["DDD", "集約"]
+categories = ["Architecture"]
+tags = ["DDD"]
 draft = false
 +++
 
