@@ -16,9 +16,14 @@ pagerSize = 100
     weight = 1
     
   [[menu.main]]
+    name = "タグ"
+    url = "/tags/"
+    weight = 2
+
+  [[menu.main]]
     name = "本"
     url = "/books/"
-    weight = 2
+    weight = 3
     
   [[menu.main]]
     name = "概要"
@@ -45,4 +50,8 @@ author = "奥田 智紘"
 
 [services.googleAnalytics]
 id = "G-W5RMQW8ZBN"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
 
