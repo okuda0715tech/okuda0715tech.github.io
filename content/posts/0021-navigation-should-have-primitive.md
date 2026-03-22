@@ -1,6 +1,6 @@
 +++
 title = "Jetpack Compose Navigation のパラメータ指定の罠"
-date = "2026-03-18T11:00:00+09:00"
+date = "2026-03-22T18:00:00+09:00"
 categories = ["Architecture"]
 tags = ["UI"]
 draft = false
