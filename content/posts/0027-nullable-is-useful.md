@@ -134,6 +134,8 @@ uiState.selectedId?.let(onClickSave)
 
 余計な状態オブジェクトや `when` 分岐も不要になります。
 
+また、 `selectedId` という性質からも、「 null の場合はおそらく未選択だろう」という想像もつきやすいです。
+
 ## sealed class を使うべきケース
 
 もちろん、sealed class が不要という話ではありません。
