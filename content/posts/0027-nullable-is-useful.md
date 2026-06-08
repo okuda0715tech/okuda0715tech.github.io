@@ -6,8 +6,14 @@ tags = ["Type Safety"]
 draft = false
 +++
 
+- [今回のケース](#今回のケース)
+- [ふと気付いたこと](#ふと気付いたこと)
+- [Kotlinは「nullを排除する言語」ではない](#kotlinはnullを排除する言語ではない)
+- [今回は nullable の方が自然だった](#今回は-nullable-の方が自然だった)
+- [sealed class を使うべきケース](#sealed-class-を使うべきケース)
+- [学び](#学び)
 
-# Kotlin では null を避けるべきか？実はすごく便利だった
+---
 
 Kotlin を書いていると、「null をできるだけ使わない」という考え方をよく目にします。
 
