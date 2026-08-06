@@ -1,5 +1,5 @@
 +++
-title = "UiState にドメインモデルをどこまで持たせるべきか考えた"
+title = "UiState にドメインモデルをどこまで持たせるべきか考えた２"
 date = "2026-05-26T13:00:00+09:00"
 categories = ["Architecture"]
 tags = ["UI", "Domain"]
