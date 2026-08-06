@@ -10,7 +10,7 @@ draft = false
 - [ふと気付いたこと](#ふと気付いたこと)
 - [Kotlinは「nullを排除する言語」ではない](#kotlinはnullを排除する言語ではない)
 - [今回は nullable の方が自然だった](#今回は-nullable-の方が自然だった)
-- [sealed class を使うべきケース](#sealed-class-を使うべきケース)
+- [nullable を避けるべきケース](#nullable-を避けるべきケース)
 - [学び](#学び)
 
 ---
@@ -20,6 +20,7 @@ Kotlin を書いていると、「null をできるだけ使わない」とい�
 私自身も、状態を表現するときは sealed class を積極的に使うようにしています。
 
 しかし、ある画面の選択状態を実装しているときに、「本当に nullable を避けるべきなのか？」と考える機会がありました。
+
 
 ## 今回のケース
 
@@ -50,6 +51,7 @@ when (val selectionState = uiState.selectionState) {
 のような分岐が必要になります。
 
 さらに、UIState の中から選択された ID を取得したい場面でも、毎回 `when` が必要になります。
+
 
 ## ふと気付いたこと
 
@@ -86,6 +88,7 @@ Int
 
 と本質的に同じ状態を表現しています。
 
+
 ## Kotlinは「nullを排除する言語」ではない
 
 Kotlin はよく「null を排除する言語」と言われます。
@@ -111,6 +114,7 @@ val selectedId: Int?
 これは Kotlin の思想に反しているわけではありません。
 
 むしろ、存在しうる状態を正しく型に表現しています。
+
 
 ## 今回は nullable の方が自然だった
 
@@ -142,9 +146,10 @@ uiState.selectedId?.let(onClickSave)
 
 また、 `selectedId` という性質からも、「 null の場合はおそらく未選択だろう」という想像もつきやすいです。
 
-## sealed class を使うべきケース
 
-もちろん、sealed class が不要という話ではありません。
+## nullable を避けるべきケース
+
+もちろん、 nullable を避けたほうがよいケースもあります。
 
 例えば、
 
@@ -157,6 +162,7 @@ sealed interface SelectionState {
 ```
 
 のように状態が増える場合や、状態の中に保持したいプロパティが多い場合は、 nullable よりも sealed class の方が分かりやすくなります。
+
 
 ## 学び
 
