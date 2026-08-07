@@ -9,8 +9,8 @@ draft = false
 - [はじめに](#はじめに)
 - [Repositoryとは何か](#repositoryとは何か)
 - [Repositoryが提供するもの](#repositoryが提供するもの)
-- [では、なぜ今回のアプリではRepositoryを作らなかったのか](#ではなぜ今回のアプリではrepositoryを作らなかったのか)
-- [Repositoryは「必ず作るもの」ではない](#repositoryは必ず作るものではない)
+- [なぜ今回のアプリではRepositoryを作らなかったのか](#なぜ今回のアプリではrepositoryを作らなかったのか)
+- [Repositoryは必ず作るものではない](#repositoryは必ず作るものではない)
   - [1. 複数のデータソースが存在する場合](#1-複数のデータソースが存在する場合)
   - [2. データ取得ルールが存在する場合](#2-データ取得ルールが存在する場合)
   - [3. データ保存方法が変わる可能性がある場合](#3-データ保存方法が変わる可能性がある場合)
@@ -106,7 +106,7 @@ ViewModelやUseCaseは、
 
 ---
 
-## では、なぜ今回のアプリではRepositoryを作らなかったのか
+## なぜ今回のアプリではRepositoryを作らなかったのか
 
 面接で質問された「守るくん」アプリでは、Repositoryを導入していません。
 
@@ -173,7 +173,7 @@ class SettingRepository {
 
 ---
 
-## Repositoryは「必ず作るもの」ではない
+## Repositoryは必ず作るものではない
 
 Repositoryの本来の目的は、
 
