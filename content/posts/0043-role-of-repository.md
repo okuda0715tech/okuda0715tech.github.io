@@ -3,7 +3,7 @@ title = "リポジトリの役割について再確認してみた"
 date = "2026-08-07T13:00:00+09:00"
 categories = ["Architecture"]
 tags = ["Repository"]
-draft = false
+draft = true
 +++
 
 - [はじめに](#はじめに)
